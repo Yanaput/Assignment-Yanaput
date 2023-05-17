@@ -4,11 +4,6 @@
 using namespace std;
 #define SIZE 100
 
-//1. Creating make file
-//2. Swap the value in the array using pointers** to help
-//3. Take input from argv
-
-
 int main(int argc, char **argv){
   int i,n,*a;
 			n=argc-1;
